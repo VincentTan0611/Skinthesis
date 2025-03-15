@@ -104,7 +104,7 @@ function Article1() {
               <Flex gap={16} mt={5}>
                 <Box flex={1}>
                   <Text lineHeight="2" textAlign="justify" mt={-2}>
-                    Basal cell carcinoma (BCC) is the most common skin cancer, making up about 80% of cases. It begins in basal cells deep in the epidermis and grows slowly, rarely spreading to other parts of the body. However, if untreated, BCC can invade nearby areas, damaging bone and tissue. BCCs can recur if not completely removed and people with BCC are at a higher risk of developing new ones.
+                    hiBasal cell carcinoma (BCC) is the most common skin cancer, making up about 80% of cases. It begins in basal cells deep in the epidermis and grows slowly, rarely spreading to other parts of the body. However, if untreated, BCC can invade nearby areas, damaging bone and tissue. BCCs can recur if not completely removed and people with BCC are at a higher risk of developing new ones.
                     <br /><br />
                     The two most common skin cancers are basal cell carcinoma (BCC) and squamous cell carcinoma (SCC). Melanoma and the rare Merkel cell carcinoma are less common but are leading causes of death from skin cancer due to their aggressive nature and potential to spread rapidly. Most skin cancers begin in the epidermis, and the primary difference between them lies in the type of cell from which they originate.
                     <br /><br />
